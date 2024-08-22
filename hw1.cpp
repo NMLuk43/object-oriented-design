@@ -7,7 +7,7 @@ int main() {
    cout << "Hello World!\n";
    cout << "This is a test of my new homework file!" << endl;
 
-   bool data = true;
+   bool data = false;
 
    cout << data << endl;
 
